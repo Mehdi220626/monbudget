@@ -1,0 +1,16 @@
+{
+  "name": "MonBudget",
+  "short_name": "MonBudget",
+  "description": "Suivi financier personnel",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#6C5CE7",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%236C5CE7' rx='20' width='100' height='100'/><text y='70' x='50' text-anchor='middle' font-size='60'>💰</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
